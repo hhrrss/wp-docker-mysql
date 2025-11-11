@@ -9,8 +9,8 @@ A lightweight Docker-based setup for local WordPress development with a MySQL da
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/<your-org>/<your-repo>.git
-   cd <your-repo>
+   git clone https://github.com/hhrrss/wp-docker-mysql.git
+   cd wp-docker-mysql
    ```
 
 2. **Create the local WordPress directory**
