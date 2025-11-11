@@ -1,0 +1,25 @@
+# Node, Composer, or build-related files
+node_modules/
+vendor/
+
+# Docker volumes & local environment
+db_data/
+wordpress/wp-content/uploads/
+wordpress/wp-content/cache/
+wordpress/wp-content/upgrade/
+wordpress/.htaccess
+wordpress/wp-config.php
+
+# Logs
+*.log
+*.pid
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
